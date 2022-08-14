@@ -6,7 +6,7 @@ install these python libraries :
   - pytube
   - youtube-search-python
   - pandas
-Commands :
+- Commands :
    - pip install pytube
    - pip install pandas
    - pip install youtube-search-python
