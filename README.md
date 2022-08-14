@@ -7,9 +7,9 @@ install these python libraries :
   youtube-search-python
   pandas
 Commands :
-    pip install pytube
-    pip install pandas
-    pip install youtube-search-python
+   - pip install pytube
+   - pip install pandas
+   - pip install youtube-search-python
 
 #Steps to download your shazams:
 - Download the code
