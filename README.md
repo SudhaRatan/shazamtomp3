@@ -18,4 +18,5 @@ pytube, youtube-search-python, pandas
     - This will download your library in a csv file
     - Replace your file with the given file
 - Run shazam.py
+- Music folder will be created
 - Enjoy your favourite shazams offline
