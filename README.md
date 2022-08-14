@@ -3,9 +3,7 @@ Download all your shazams to your device
 
 # Prerequisites
 install these python libraries :
-    - pytube
-    - youtube-search-python
-    - pandas
+pytube, youtube-search-python, pandas
 - Commands :
    - pip install pytube
    - pip install pandas
